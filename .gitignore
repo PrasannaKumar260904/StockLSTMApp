@@ -1,14 +1,5 @@
-# Ignore virtual environment
 venv/
-.env
-
-# Ignore OS or IDE-related files
 __pycache__/
-*.py[cod]
+*.ipynb
+*.pyc
 .DS_Store
-
-# Ignore model files if too large
-*.h5
-*.pkl
-*.joblib
-venv/

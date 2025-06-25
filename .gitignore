@@ -1,2 +1,13 @@
-lstm_model.h5
+# Ignore virtual environment
 venv/
+.env
+
+# Ignore OS or IDE-related files
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Ignore model files if too large
+*.h5
+*.pkl
+*.joblib

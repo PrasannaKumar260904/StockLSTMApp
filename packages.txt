@@ -1,1 +1,1 @@
-python3.10
+libgl1-mesa-glx

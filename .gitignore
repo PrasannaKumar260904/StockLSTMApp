@@ -11,3 +11,4 @@ __pycache__/
 *.h5
 *.pkl
 *.joblib
+venv/
